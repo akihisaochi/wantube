@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "splash": {
+      "image": "./publish/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#737373"
+    },
+    "icon": "./publish/app-icon.png",
+    "name": "wantube",
+    "slug": "wantube",
+    "description": "wantibe take exciteing dog's vidoes from youtube.",
+    "version": "1.0.1",
+    "githubUrl": "https://github.com/akihisaochi",
+    "primaryColor": "#737373",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.akihisaochi.wantube"
+    },
+    "android": {
+      "package": "com.akihisaochi.wantube"
+    }
+  }
+}
